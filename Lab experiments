@@ -1,0 +1,17 @@
+AIM:To find the average of the three numbers
+
+CODE:
+a=int(input("enter a value"))
+b=int(input("enter b value"))
+c=int(input("enter c value"))
+total=a+b+c
+Print("total =", total)
+average=total/3
+Print("average =", average)
+
+EXPECTED OUTPUT:
+enter a value2
+enter b value4
+enter c value6
+total=12
+average=4
