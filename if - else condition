@@ -1,5 +1,10 @@
-a=2032546784
+a=int(input("enter a number"))
 if (a%2=1):
 Print("a is odd")
 else:
 Print("a is even")
+
+Output:
+enter a number 2359876540
+a is even
+
