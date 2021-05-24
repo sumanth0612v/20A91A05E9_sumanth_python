@@ -1,0 +1,5 @@
+a=2032546784
+if (a%2=1):
+Print("a is odd")
+else:
+Print("a is even")
